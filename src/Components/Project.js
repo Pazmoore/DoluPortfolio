@@ -5,8 +5,11 @@ import projImg1 from "../Assets/img/project-img1.png";
 import projImg3 from "../Assets/img/project-img3.png";
 import projImg4 from "../Assets/img/project-img4.png";
 import projImg5 from "../Assets/img/project-img5.png";
-import projImg6 from "../Assets/img/project-img6.png";
+import projImg6 from "../Assets/img/project-img6 .png";
 import projImg7 from "../Assets/img/project-img7.png";
+import projImg8 from "../Assets/img/project-img8.png";
+import projImg9 from "../Assets/img/project-img9.png";
+import projImg10 from "../Assets/img/project-img10.png";
 
 
 const Project = () => {
@@ -15,7 +18,8 @@ const Project = () => {
         {
             title: "Anime Website",
             description: "HTML & CSS",
-            link: "https://github.com/Pazmoore/I-Love-Anime.git",
+            link: "https://github.com/Pazmoore/anime.git",
+            link1: "https://anime-five-beta.vercel.app/",
             imgUrl: projImg1,
         },
         {
@@ -43,13 +47,36 @@ const Project = () => {
             title: "SignUP-LoginIN Form",
             description: "React.Js & Vite",
             link: "https://github.com/Pazmoore/react-sign-up-form.git",
+            link1: "https://react-sign-up-form-tau.vercel.app/",
             imgUrl: projImg7,
         },
         {
-            title: "News Website",
-            description: "React.Js & BootStrap",
-            link: "https://pazmoore.github.io/to-do-list/",
+            title: "Online Classes Website",
+            description: "React.Js, CSS & React Router DOM",
+            link: "https://github.com/Pazmoore/School-Website.git",
+            link1: "https://school-website-five-tan.vercel.app/",
             imgUrl: projImg6,
+        },
+        {
+            title: "A Fan-page Website",
+            description: "React.Js, CSS & React Router DOM",
+            link: "https://github.com/Pazmoore/K-Drama.git",
+            link1: "https://k-drama-tau.vercel.app/",
+            imgUrl: projImg8,
+        },
+        {
+            title: "Qr-code maker Website",
+            description: "HTML, CSS & JavaScript",
+            link: "https://github.com/Pazmoore/qr-code.git",
+            link1: "https://qr-code-pink-seven.vercel.app/",
+            imgUrl: projImg9,
+        },
+        {
+            title: "Valentine's Website",
+            description: "React.Js, CSS & Bootstrap",
+            link: "https://github.com/Pazmoore/RizzlyBear.git ",
+            link1: "https://rizzybear.vercel.app/",
+            imgUrl: projImg10,
         },
     ];
 

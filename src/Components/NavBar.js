@@ -6,6 +6,7 @@ import logo from '../Assets/img/logo.svg';
 import navIcon1 from '../Assets/img/nav-icon1.svg'
 import navIcon2 from '../Assets/img/nav-icon2.svg';
 import navIcon3 from '../Assets/img/nav-icon3.svg';
+import navIcon4 from '../Assets/img/nav-icon4.svg';
 
 const NavBar = () => {
 
@@ -57,6 +58,7 @@ const NavBar = () => {
                         <a href='http://linkedin.com/in/doluwamu-omoteso-8b9104246'target='#'> <img src={navIcon1} alt='Logo' /></a>
                         <a href='https://x.com/la_dame_paz?s=21'target='#'> <img src={navIcon2} alt='Logo' /></a>
                         <a href='https://www.instagram.com/la_dame_paz?igsh=MTE5c2JuZTJuMjNvZA%3D%3D&utm_source=qr' target='#'> <img src={navIcon3} alt='Logo' /></a>
+                        <a href='https://wa.link/2de248' target='#'> <img src={navIcon4} alt='Logo' /></a>
                     </div>
                     <button className='vvd' onClick={() => console.log('connect')}> <span className='vvd-span'>Let's Connect</span></button>
                 </span>

@@ -1,12 +1,12 @@
 import NavBar from "./Components/NavBar";
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Banner from "./Components/Banner";
 import Skills from "./Components/Skills";
 import Project from "./Components/Project";
-import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
+import { Contact } from "./Components/Contact";
+
 
 
 const App = () => {
