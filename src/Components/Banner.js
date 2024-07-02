@@ -50,7 +50,15 @@ const Banner = () => {
                 <Col xs={12} md={6} xl={7}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi I'm Doluwamu OMOTESO`} <span className="wrap">{text}</span></h1>
-                <p> I am Doluwamu, a Front-End Web Developper. I have the knowledge of HTML & CSS, Bootstrap and React.js. I would like to work with you as i am open to work with like minded people. I have a lot to learn. Let's work together. </p>
+                <p> I am Doluwamu, a Front-End Web Developper. I have the knowledge of HTML & CSS, Bootstrap, React.js and Next.js.
+                    <br/>
+                    <br/>
+                    I love brining to life and expressing my creativity with insightful solutions. 
+                    I have the ability to create effective front-end user interfaces in line with contemporary best practices. 
+                    <br/>
+                    <br/>
+                    I look forward to working with you and I believe that i will bring the needed harmony to your team. 
+                </p>
                 <button onClick={()=> console.log('connect')}>Let's Connect <ArrowRightCircle size={25}></ArrowRightCircle> </button>
                 </Col>   
 
