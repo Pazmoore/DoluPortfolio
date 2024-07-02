@@ -53,7 +53,7 @@ const Banner = () => {
                 <p> I am Doluwamu, a Front-End Web Developper. I have the knowledge of HTML & CSS, Bootstrap, React.js and Next.js.
                     <br/>
                     <br/>
-                    I love brining to life and expressing my creativity with insightful solutions. 
+                    I love bringing to life and expressing my creativity with insightful solutions. 
                     I have the ability to create effective front-end user interfaces in line with contemporary best practices. 
                     <br/>
                     <br/>
