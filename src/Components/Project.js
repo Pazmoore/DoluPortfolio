@@ -58,13 +58,13 @@ const Project = () => {
         //     link1: "https://school-website-five-tan.vercel.app/",
         //     imgUrl: projImg6,
         // },
-        {
-            title: "A Fan-page Website",
-            description: "React.Js, CSS & React Router DOM",
-            link: "https://github.com/Pazmoore/K-Drama.git",
-            link1: "https://k-drama-tau.vercel.app/",
-            imgUrl: projImg8,
-        },
+        // {
+        //     title: "A Fan-page Website",
+        //     description: "React.Js, CSS & React Router DOM",
+        //     link: "https://github.com/Pazmoore/K-Drama.git",
+        //     link1: "https://k-drama-tau.vercel.app/",
+        //     imgUrl: projImg8,
+        // },
         {
             title: "Qr-code maker Website",
             description: "HTML, CSS & JavaScript",
