@@ -54,6 +54,14 @@ const Skills = () => {
                                 <img src={meter2} alt="Image"/>
                                 <h5>React.Js</h5>
                             </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image"/>
+                                <h5>Next.Js</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image"/>
+                                <h5>TailWind.CSS</h5>
+                            </div>
                         </Carousel>
                     </div>
                     </Col>
