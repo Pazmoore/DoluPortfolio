@@ -50,7 +50,7 @@ const Banner = () => {
                 <Col xs={12} md={6} xl={7}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi I'm Doluwamu OMOTESO`} <span className="wrap">{text}</span></h1>
-                <p> I am Doluwamu, a Front-End Web Developper. I have the knowledge of HTML & CSS, Bootstrap, React.js and Next.js.
+                <p> I have the knowledge of HTML & CSS, Bootstrap, React.js and Next.js.
                     <br/>
                     <br/>
                     I love bringing to life and expressing my creativity with insightful solutions. 
