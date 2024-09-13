@@ -11,6 +11,7 @@ import projImg8 from "../Assets/img/project-img8.png";
 import projImg9 from "../Assets/img/project-img9.png";
 import projImg10 from "../Assets/img/project-img10.png";  
 import projImg11 from "../Assets/img/project-img11.png";  
+import projImg12 from "../Assets/img/project-img12.png";  
 
 
 const Project = () => {
@@ -51,20 +52,13 @@ const Project = () => {
             link1: "https://react-sign-up-form-tau.vercel.app/",
             imgUrl: projImg7,
         },
-        // {
-        //     title: "Online Classes Website",
-        //     description: "React.Js, CSS & React Router DOM",
-        //     link: "https://github.com/Pazmoore/School-Website.git",
-        //     link1: "https://school-website-five-tan.vercel.app/",
-        //     imgUrl: projImg6,
-        // },
-        // {
-        //     title: "A Fan-page Website",
-        //     description: "React.Js, CSS & React Router DOM",
-        //     link: "https://github.com/Pazmoore/K-Drama.git",
-        //     link1: "https://k-drama-tau.vercel.app/",
-        //     imgUrl: projImg8,
-        // },
+        {
+            title: "Online Classes Website",
+            description: "React.Js, CSS & React Router DOM",
+            link: "https://github.com/Pazmoore/School-Website.git",
+            link1: "https://school-website-five-tan.vercel.app/",
+            imgUrl: projImg6,
+        },
         {
             title: "Qr-code maker Website",
             description: "HTML, CSS & JavaScript",
@@ -85,6 +79,13 @@ const Project = () => {
             link: "https://github.com/Pazmoore/animals.git",
             link1: "https://animals-flax.vercel.app/",
             imgUrl: projImg11,
+        },
+        {
+            title: "Shopping Website",
+            description: "Next.Js & CSS",
+            link: "https://github.com/Pazmoore/ella-may.git",
+            link1: "https://ella-may-564r.vercel.app/",
+            imgUrl: projImg12,
         },
     ];
 
